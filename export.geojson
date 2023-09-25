@@ -1,0 +1,1998 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-09-22T12:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469782649",
+        "addr:city": "相模原市",
+        "addr:housenumber": "6-14-9",
+        "addr:postcode": "252-0303",
+        "addr:province": "神奈川県",
+        "addr:quarter": "相模大野",
+        "addr:suburb": "南区",
+        "amenity": "fast_food",
+        "branch": "相模大野店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "cuisine:ja": "ラーメン",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　相模大野店",
+        "name:en": "Ramen Jiro Sagamihara",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Tu-Su,PH 11:00-23:00; PH +1 day Tu off",
+        "outdoor_seating": "no",
+        "ref": "相模大野店",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "website": "http://sumoji.jp/",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4329132,
+          35.5299719
+        ]
+      },
+      "id": "node/469782649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814843028",
+        "addr:city": "港区",
+        "addr:housenumber": "2-16-4",
+        "addr:postcode": "110",
+        "addr:province": "東京都",
+        "addr:quarter": "三田",
+        "addr:street": "桜田通り",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "cuisine:ja": "ラーメン",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 三田本店",
+        "name:en": "Ramen Jiro Mita Honten",
+        "opening_hours": "Mo-Sa 8:30-15:00, 17:00-20:00; PH pff",
+        "smoking": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7416587,
+          35.6480575
+        ]
+      },
+      "id": "node/814843028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/816323298",
+        "addr:city": "松戸市",
+        "addr:housenumber": "17-21",
+        "addr:province": "千葉県",
+        "addr:quarter": "本町",
+        "amenity": "fast_food",
+        "branch": "松戸駅前店",
+        "check_date": "2022-12-30",
+        "cuisine": "ramen;jiro",
+        "cuisine:ja": "ラーメン",
+        "delivery": "no",
+        "drive_through": "no",
+        "level": "0",
+        "name": "ラーメン二郎　松戸駅前店Ⅲ",
+        "name:en": "Ramen Jiro Matsudo Ekimae",
+        "opening_hours": "Tu-Fr 11:00-14:00,18:00-21:00; Sa 11:00-14:00, 17:30-20:30; Su 11:00-14:00,17:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8992985,
+          35.7859582
+        ]
+      },
+      "id": "node/816323298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422679738",
+        "addr:city": "立川市",
+        "addr:housenumber": "2-10-1",
+        "addr:postcode": "190-0023",
+        "addr:province": "東京都",
+        "addr:quarter": "柴崎町",
+        "addr:street": "立川南通り",
+        "alt_name:en": "Ramen jiro Tachikawa",
+        "amenity": "fast_food",
+        "branch": "立川店",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 立川店",
+        "name:en": "Ramen Jirou Tachikawa",
+        "opening_hours": "Mo-Fr 11:00-15:00; Th off; Sa 11:00-16:00; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4095493,
+          35.6965284
+        ]
+      },
+      "id": "node/1422679738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1795779024",
+        "addr:block_number": "16",
+        "addr:city": "大和市",
+        "addr:housenumber": "1550",
+        "addr:neighbourhood": "8",
+        "addr:postcode": "242-0001",
+        "addr:province": "神奈川県",
+        "addr:quarter": "下鶴間",
+        "amenity": "fast_food",
+        "branch": "下鶴間",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン岩佐",
+        "opening_hours": "Mo-Th 11:00-15:30, 17:30-23:00; Fr 11:00-15:30, 17:30-23:30; Sa 11:00-23:30; Su,PH 11:00-23:00; PH +1day Tu off",
+        "opening_hours:covid19": "closed",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4511163,
+          35.510288
+        ]
+      },
+      "id": "node/1795779024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2078321972",
+        "addr:block_number": "29",
+        "addr:city": "相模原市",
+        "addr:housenumber": "13",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "252-0202",
+        "addr:province": "神奈川県",
+        "addr:quarter": "淵野辺本町",
+        "addr:suburb": "中央区",
+        "amenity": "fast_food",
+        "branch": "淵野辺",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麵屋　歩夢",
+        "opening_hours": "Tu-Sa 11:00-20:00; Su 11:00-15:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4067288,
+          35.5740797
+        ]
+      },
+      "id": "node/2078321972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147188946",
+        "addr:city": "小金井市",
+        "addr:housenumber": "3-5-7",
+        "addr:postcode": "184-0015",
+        "addr:quarter": "貫井北町",
+        "addr:street": "新小金井街道",
+        "amenity": "fast_food",
+        "branch": "新小金井街道店",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　新小金井街道店（閉店）",
+        "name:en": "Ramen Jiro Shin Koganei Kaido",
+        "name:ja": "ラーメン二郎 新小金井街道店（閉店）",
+        "opening_hours": "Tu-Fr 17:00-22:00; Sa 11:00Mo 11:30-14:30, 17:30-22:00; Tu-Sa 11:30-14:30, 17:30-22:00; Su 10:00-15:00-15:00, 17:00-22:00; Su 11:00-18:00",
+        "outdoor_seating": "no",
+        "phone": "042-387-4140",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4961396,
+          35.7084177
+        ]
+      },
+      "id": "node/2147188946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2221801288",
+        "addr:block_number": "3",
+        "addr:city": "横浜市",
+        "addr:housenumber": "33",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "235-0036",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中原",
+        "addr:suburb": "磯子区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン 赤ひげ",
+        "opening_hours": "We-Fr 11:00-20:00; Sa-Mo 11:00-16:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617726,
+          35.387554
+        ]
+      },
+      "id": "node/2221801288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266446991",
+        "addr:city": "目黒区",
+        "addr:housenumber": "3-7-2",
+        "addr:postcode": "110",
+        "addr:province": "東京都",
+        "addr:quarter": "目黒",
+        "amenity": "fast_food",
+        "branch": "三田本店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 目黒店",
+        "name:en": "Ramen Jiro Meguro",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Th-Tu 12:00-16:00, 18:00-24:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7070838,
+          35.6341463
+        ]
+      },
+      "id": "node/2266446991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266458369",
+        "addr:block_number": "13",
+        "addr:city": "横浜市",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "230-0078",
+        "addr:province": "神奈川県",
+        "addr:quarter": "岸谷",
+        "addr:suburb": "鶴見区",
+        "amenity": "fast_food",
+        "branch": "鶴見",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "らーめん　こじろう526",
+        "opening_hours": "Tu-Sa 11:30-15:00, 18:00-20:00; Su 11:30-15:00",
+        "opening_hours:covid19": "Tu-Su 11:30-14:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6612604,
+          35.497121
+        ]
+      },
+      "id": "node/2266458369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2588755413",
+        "addr:city": "横浜市",
+        "addr:housenumber": "309-1",
+        "addr:postcode": "226-0014",
+        "addr:province": "神奈川県",
+        "addr:quarter": "谷村町",
+        "addr:street": "青砥上星川線",
+        "addr:suburb": "緑区",
+        "amenity": "fast_food",
+        "branch": "中山駅前店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "name": "ラーメン二郎　中山駅前店",
+        "name:en": "Ramen Jiro Nakayama　Ekimae",
+        "name:ja": "ラーメン二郎 中山駅前店",
+        "opening_hours": "Mo-Su 11:00-14:00,18:00-21:30; Th off",
+        "outdoor_seating": "no",
+        "phone": "+81 45 932 0388",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5386559,
+          35.5130551
+        ]
+      },
+      "id": "node/2588755413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3122458434",
+        "addr:city": "杉並区",
+        "addr:housenumber": "4-33-1",
+        "addr:province": "東京都",
+        "addr:quarter": "荻窪",
+        "amenity": "fast_food",
+        "branch": "荻窪店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　荻窪店",
+        "name:en": "Ramen Jiro Ogikubo",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-We 11:30-14:30,18:00-22:00, Fr-Su 11:30-14:30, 18:00-22:00; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6263153,
+          35.7036426
+        ]
+      },
+      "id": "node/3122458434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3247534329",
+        "addr:city": "中区",
+        "addr:housenumber": "6-94",
+        "addr:postcode": "231-0033",
+        "addr:province": "神奈川県",
+        "addr:quarter": "長者町",
+        "addr:street": "イセザキ・モール",
+        "amenity": "fast_food",
+        "branch": "横浜関内店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 横浜関内店",
+        "name:en": "Ramen Jiro Yokohama Kannai",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Th-Tu 11:00-14:30, 18:00-22:00; PH off",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6308405,
+          35.4420042
+        ]
+      },
+      "id": "node/3247534329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3499265405",
+        "addr:city": "会津若松市",
+        "addr:housenumber": "6-31",
+        "addr:province": "福島県",
+        "addr:quarter": "駅前町",
+        "amenity": "fast_food",
+        "branch": "会津若松駅前店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 会津若松駅前店",
+        "name:en": "Ramen Jiro Aiduwakamatsu Ekimae",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Tu-Su 11:00-14:00,17:00-21:00; Sa-Su 11:00-15:00; Su[3] off; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9314722,
+          37.5066462
+        ]
+      },
+      "id": "node/3499265405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4578856727",
+        "addr:block_number": "3",
+        "addr:city": "横浜市",
+        "addr:housenumber": "10",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "227-0034",
+        "addr:province": "神奈川県",
+        "addr:quarter": "桂台",
+        "addr:suburb": "青葉区",
+        "amenity": "fast_food",
+        "branch": "青葉台",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "J-LOW麺",
+        "opening_hours": "Mo-Su 11:30-14:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5050282,
+          35.5474887
+        ]
+      },
+      "id": "node/4578856727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4717686488",
+        "addr:block_number": "6",
+        "addr:city": "川崎市",
+        "addr:housenumber": "23",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "210-0006",
+        "addr:province": "神奈川県",
+        "addr:quarter": "砂子",
+        "addr:suburb": "川崎区",
+        "amenity": "fast_food",
+        "branch": "川崎東口",
+        "cuisine": "ramen;jiro",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "野郎ラーメン",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "opening_hours:covid19": "Mo-Su 11:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7000756,
+          35.5285027
+        ]
+      },
+      "id": "node/4717686488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909989553",
+        "addr:block_number": "2691",
+        "addr:city": "相模原市",
+        "addr:housenumber": "4",
+        "addr:postcode": "252-0135",
+        "addr:province": "神奈川県",
+        "addr:quarter": "大島",
+        "addr:suburb": "緑区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "KAZE本店",
+        "opening_hours": "Tu-Su 11:30-14:00, 18:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3236324,
+          35.5654046
+        ]
+      },
+      "id": "node/4909989553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4933609622",
+        "addr:city": "京都市",
+        "addr:housenumber": "4",
+        "addr:province": "京都府",
+        "addr:quarter": "一乗寺里ノ前町",
+        "addr:suburb": "左京区",
+        "amenity": "fast_food",
+        "branch": "京都店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "name": "ラーメン二郎 京都店",
+        "name:en": "Ramen Jiro  Kyoto",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Su 11:00-14:00,17:30-21:30; Su 11:00-14:00,17:00-21:00; PH +1 day",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.787529,
+          35.0439438
+        ]
+      },
+      "id": "node/4933609622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974612374",
+        "addr:city": "船橋市",
+        "addr:housenumber": "2-1-11",
+        "addr:province": "千葉県",
+        "addr:quarter": "三山",
+        "amenity": "fast_food",
+        "branch": "京成大久保店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　京成大久保店",
+        "name:en": "Ramen Jiro",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Fr 11:00-15:00; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0495924,
+          35.6915374
+        ]
+      },
+      "id": "node/4974612374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990247764",
+        "addr:city": "府中市寿町",
+        "addr:housenumber": "1-15-5",
+        "addr:postcode": "1830022",
+        "addr:province": "東京都",
+        "addr:quarter": "宮西町",
+        "addr:street": "府中街道",
+        "amenity": "fast_food",
+        "branch": "府中店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　府中店",
+        "name:en": "Ramen Jiro Huchu",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Fr 17:00-23:00; PH pff",
+        "outdoor_seating": "no",
+        "phone": "0423682424",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4771681,
+          35.6721131
+        ]
+      },
+      "id": "node/4990247764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5201141921",
+        "addr:city": "川崎市",
+        "addr:housenumber": "1770",
+        "addr:postcode": "214-0014",
+        "addr:province": "神奈川県",
+        "addr:quarter": "登戸",
+        "addr:street": "登戸陸橋",
+        "addr:suburb": "多摩区",
+        "amenity": "fast_food",
+        "branch": "登戸店",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "蓮爾",
+        "name:en": "Hasumi",
+        "opening_hours": "Mo-Fr 18:00-00:00; Sa 12:00-17:00",
+        "opening_hours:covid19": "Mo-Fr 11:00-14:00, 17:00-20:00; Sa 11:00-17:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5616737,
+          35.6203543
+        ]
+      },
+      "id": "node/5201141921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5559491121",
+        "addr:city": "川崎市",
+        "addr:housenumber": "2-10",
+        "addr:postcode": "210-0001",
+        "addr:province": "神奈川県",
+        "addr:quarter": "本町",
+        "addr:street": "大師道",
+        "addr:suburb": "川崎区",
+        "amenity": "fast_food",
+        "branch": "京急川崎店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 京急川崎店",
+        "name:en": "Ramen Jirou Keikyu Kawasaki",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Fr 11:00-14:00,18:00-22:00; Sa 11:00-16:00; Mo-Tu 18:00-22:30; Th-Fr 18:00-22:30; Sa-Su 11:00-14:30,18:00-22:30",
+        "outdoor_seating": "no",
+        "phone": "070-5223-5166",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "en:Ramen Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705183,
+          35.5349569
+        ]
+      },
+      "id": "node/5559491121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5615796327",
+        "addr:city": "品川区",
+        "addr:housenumber": "1-18-5",
+        "addr:postcode": "140-0001",
+        "addr:province": "東京都",
+        "addr:quarter": "北品川",
+        "addr:street": "旧海岸通り",
+        "amenity": "fast_food",
+        "branch": "品川店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎 品川店",
+        "name:en": "Ramen Jiro Shinagawa",
+        "name:ja": "ラーメン二郎 品川店",
+        "opening_hours": "Mo-Fr 11:00-14:3Mo-Sa 11:30Mo-Sa 11:30-14:30,17:00-21:00; Sa 11:00-14:00; PH off-14:30,17:00-21:00; Sa 11:00-14:00; PH off0, 17:00-21:00; Sa 11:00-14:00",
+        "outdoor_seating": "no",
+        "phone": "03-3474-4026",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wheelchair": "limited",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7430479,
+          35.6239669
+        ]
+      },
+      "id": "node/5615796327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011840803",
+        "addr:city": "八王子市",
+        "addr:housenumber": "2-13-16",
+        "addr:province": "東京都",
+        "addr:quarter": "堀ノ内",
+        "amenity": "fast_food",
+        "branch": "八王子野猿街道店Ⅱ",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　八王子野猿街道店Ⅱ",
+        "name:en": "Ramen Jiro　Yaen",
+        "name:ja": "ラーメン二郎 野猿街道店2",
+        "opening_hours": "Tu-Fr 11:00-14:30,17:00-22:30; Sa 11:00-15:00, 16:30-22:30; Su 11:00-17:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4013361,
+          35.6294882
+        ]
+      },
+      "id": "node/6011840803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052369942",
+        "addr:block_number": "26",
+        "addr:city": "厚木市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "243-0816",
+        "addr:province": "神奈川県",
+        "addr:quarter": "林",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメンパワースポット",
+        "opening_hours": "Tu-Su 11:00-15:15, 18:00-21:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3501825,
+          35.4544338
+        ]
+      },
+      "id": "node/6052369942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6189321808",
+        "addr:city": "世田谷区",
+        "addr:housenumber": "1-26-16",
+        "addr:province": "東京都",
+        "addr:quarter": "上野毛",
+        "amenity": "fast_food",
+        "branch": "上野毛",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　上野毛店",
+        "name:en": "Ramen Jiro",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Fr 11:00-14:15,18:00-22:00; Sa11:00-14:30; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6389665,
+          35.6124733
+        ]
+      },
+      "id": "node/6189321808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6191254863",
+        "addr:city": "西東京市",
+        "addr:housenumber": "3-27-24",
+        "addr:province": "東京都",
+        "addr:quarter": "谷度町",
+        "amenity": "fast_food",
+        "branch": "ひばりヶ丘駅前店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "Ramen_Jiro",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　ひばりヶ丘駅前店",
+        "name:en": "Ramen Jiro Hibarigaoka Ekimae",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:45-21:30; Sa 10:30-16:30; PH pff",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5434758,
+          35.7499086
+        ]
+      },
+      "id": "node/6191254863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6191310710",
+        "addr:city": "仙台市",
+        "addr:housenumber": "2-8",
+        "addr:province": "宮城県",
+        "addr:quarter": "立町",
+        "addr:suburb": "青葉区",
+        "amenity": "fast_food",
+        "branch": "仙台店",
+        "brand": "ラーメン二郎",
+        "brand:en": "Ramen Jiro",
+        "brand:ja": "ラーメン二郎",
+        "brand:wikidata": "Q11347765",
+        "brand:wikipedia": "ja:ラーメン二郎",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン二郎　仙台店",
+        "name:en": "Ramen Jiro Sendai",
+        "name:ja": "ラーメン二郎",
+        "opening_hours": "Tu-Sa 11:30-14:30,17:00-21:00; Su 11:30-19:30",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "no",
+        "wikipedia": "Ramen_Jiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8662111,
+          38.2616694
+        ]
+      },
+      "id": "node/6191310710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327200685",
+        "addr:block_number": "6",
+        "addr:city": "横浜市",
+        "addr:housenumber": "13F",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "220-0012",
+        "addr:province": "神奈川県",
+        "addr:quarter": "みなとみらい",
+        "addr:suburb": "西区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麵屋　甍",
+        "name:en": "IRAKA",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 09:00-18:00",
+        "opening_hours:covid19": "Mo-Fr 11:00-20:00; Sa, PH 11:00-16:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6333305,
+          35.4575416
+        ]
+      },
+      "id": "node/6327200685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8070427161",
+        "addr:block_number": "27",
+        "addr:city": "横浜市",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "9",
+        "addr:postcode": "236-0027",
+        "addr:province": "神奈川県",
+        "addr:quarter": "瀬戸",
+        "addr:suburb": "金沢区",
+        "amenity": "fast_food",
+        "branch": "金沢八景",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麺屋　歩夢",
+        "name:en": "ayumu",
+        "opening_hours": "Tu-Sa 11:00-15:00, 18:00-21:00; Su 11:00-17:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6212539,
+          35.3297884
+        ]
+      },
+      "id": "node/8070427161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9470514755",
+        "addr:city": "神奈川県横浜市神奈川区",
+        "addr:housenumber": "1階",
+        "addr:neighbourhood": "100-5",
+        "addr:postcode": "221-0065",
+        "addr:province": "神奈川県",
+        "addr:quarter": "白楽",
+        "amenity": "fast_food",
+        "branch": "白楽店",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン豚山　白楽店",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6277092,
+          35.4896447
+        ]
+      },
+      "id": "node/9470514755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9470533556",
+        "addr:block_number": "8",
+        "addr:city": "横浜市",
+        "addr:housenumber": "23",
+        "addr:postcode": "230-0062",
+        "addr:province": "神奈川県",
+        "addr:quarter": "豊岡町",
+        "addr:suburb": "鶴見区",
+        "amenity": "fast_food",
+        "branch": "鶴見店",
+        "cuisine": "ramen;jiro",
+        "drive_through": "no",
+        "drive_through:covid19": "no",
+        "name": "ラーメン豚山　鶴見店",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6747262,
+          35.5086692
+        ]
+      },
+      "id": "node/9470533556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9470538454",
+        "addr:block_number": "9",
+        "addr:city": "横浜市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "220-0005",
+        "addr:province": "神奈川県",
+        "addr:quarter": "南幸",
+        "addr:suburb": "西区",
+        "amenity": "fast_food",
+        "branch": "横浜西口店",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "drive_through:covid19": "no",
+        "name": "ラーメン豚山　横浜西口店",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6179653,
+          35.4633514
+        ]
+      },
+      "id": "node/9470538454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9470555775",
+        "addr:block_number": "17",
+        "addr:city": "横浜市",
+        "addr:housenumber": "1",
+        "addr:postcode": "2310812",
+        "addr:province": "神奈川県",
+        "addr:quarter": "錦町",
+        "addr:suburb": "中区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "やらかし亭",
+        "opening_hours": "Mo-Fr 11:30-14:30, 17:00-20:00; Sa 11:30-14:30",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6677743,
+          35.4300678
+        ]
+      },
+      "id": "node/9470555775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471543793",
+        "addr:block_number": "1688",
+        "addr:city": "横浜市",
+        "addr:housenumber": "1",
+        "addr:postcode": "223-0057",
+        "addr:province": "神奈川県",
+        "addr:quarter": "新羽町",
+        "addr:suburb": "港北区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ハイパーファットン",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6115098,
+          35.5285143
+        ]
+      },
+      "id": "node/9471543793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471545763",
+        "addr:block_number": "7",
+        "addr:city": "神奈川県横浜市",
+        "addr:housenumber": "21",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "221-0802",
+        "addr:province": "神奈川県",
+        "addr:quarter": "六角橋",
+        "addr:suburb": "神奈川区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン登良治郎",
+        "opening_hours": "Mo-Fr 11:00-15:00, 18:00-23:00; Sa-Su,PH 11:00-15:00, 18:00-21:00; Tu off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6267295,
+          35.4889779
+        ]
+      },
+      "id": "node/9471545763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471560834",
+        "addr:block_number": "101",
+        "addr:city": "横浜市",
+        "addr:housenumber": "1F",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "231-0066",
+        "addr:province": "神奈川県",
+        "addr:quarter": "日ノ出町",
+        "addr:suburb": "中区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "drive_through": "no",
+        "name": "麵屋臥龍",
+        "opening_hours": "Mo-Fr 11:00-15:00, 17:00-25:00; Sa-Su 11:00-25:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6267809,
+          35.4443049
+        ]
+      },
+      "id": "node/9471560834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471593921",
+        "addr:block_number": "2",
+        "addr:city": "磯子区",
+        "addr:housenumber": "17",
+        "addr:neighbourhood": "4",
+        "addr:postcode": "235-0033",
+        "addr:province": "神奈川県",
+        "addr:quarter": "杉田",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麵屋づかちゃん",
+        "opening_hours": "Tu-Su 11:00-15:00, 17:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6201298,
+          35.3840499
+        ]
+      },
+      "id": "node/9471593921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471655529",
+        "addr:block_number": "4",
+        "addr:city": "横浜市",
+        "addr:housenumber": "18",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "240-0065",
+        "addr:province": "神奈川県",
+        "addr:quarter": "和田",
+        "addr:suburb": "保土ヶ谷区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ましまし亭",
+        "opening_hours": "Mo-Sa 18:00-26:00; Su 11:00-20:00; We off",
+        "opening_hours:covid19": "Mo-Su 18:00-21:00; We off",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.591511,
+          35.463672
+        ]
+      },
+      "id": "node/9471655529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471720105",
+        "addr:block_number": "1",
+        "addr:city": "横浜市",
+        "addr:housenumber": "26",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "230-0078",
+        "addr:province": "神奈川県",
+        "addr:quarter": "岸谷",
+        "addr:suburb": "鶴見区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "name": "麵屋　蔦重",
+        "opening_hours": "Mo, Th-Sa 11:45-15:00, 17:00-23:30; Tu, Su, PH 11:45-15:00, 17:00-22:00",
+        "opening_hours:covid19": "closed",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6624112,
+          35.4986639
+        ]
+      },
+      "id": "node/9471720105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471754929",
+        "addr:block_number": "1",
+        "addr:city": "横浜市",
+        "addr:housenumber": "8",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "223-0061",
+        "addr:province": "神奈川県",
+        "addr:quarter": "日吉",
+        "addr:suburb": "港北区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメンどん",
+        "opening_hours": "Mo-Sa 11:00-02:00",
+        "opening_hours:covid19": "closed",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6468777,
+          35.5542204
+        ]
+      },
+      "id": "node/9471754929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471761344",
+        "addr:block_number": "1",
+        "addr:city": "横浜市",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "236-0037",
+        "addr:province": "神奈川県",
+        "addr:quarter": "六浦東",
+        "addr:suburb": "金沢区",
+        "amenity": "fast_food",
+        "branch": "六浦関東学院前",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン神豚",
+        "opening_hours": "Mo-Su 11:00-22:00; We off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6206255,
+          35.3223936
+        ]
+      },
+      "id": "node/9471761344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471777167",
+        "addr:block_number": "1",
+        "addr:city": "横須賀市",
+        "addr:housenumber": "2",
+        "addr:postcode": "238-0007",
+        "addr:province": "神奈川県",
+        "addr:quarter": "若松町",
+        "amenity": "fast_food",
+        "branch": "横須賀中央",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン神豚",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6706884,
+          35.2796331
+        ]
+      },
+      "id": "node/9471777167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471787250",
+        "addr:block_number": "23",
+        "addr:city": "横浜市",
+        "addr:housenumber": "14",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "221-0825",
+        "addr:province": "神奈川県",
+        "addr:quarter": "反町",
+        "addr:suburb": "神奈川区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "MEN YARD FIGHT",
+        "opening_hours": "Mo-Fr 11:00-15:00, 18:00-00:00",
+        "opening_hours:covid19": "Mo-Fr 11:00-15:00, 18:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6267424,
+          35.4759642
+        ]
+      },
+      "id": "node/9471787250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471787893",
+        "addr:block_number": "24番",
+        "addr:city": "横浜市",
+        "addr:housenumber": "2号",
+        "addr:neighbourhood": "中川中央一丁目",
+        "addr:postcode": "224-0003",
+        "addr:province": "神奈川県",
+        "addr:suburb": "都筑区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン北郎",
+        "opening_hours": "Tu-Sa 11:00-15:00, 17:00-19:00; Su,PH 11:00-18:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5791117,
+          35.5532598
+        ]
+      },
+      "id": "node/9471787893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471818655",
+        "addr:block_number": "1399",
+        "addr:city": "川崎市",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "211-0002",
+        "addr:province": "神奈川県",
+        "addr:quarter": "上丸子山王町",
+        "addr:suburb": "中原区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン　こじろう526",
+        "opening_hours": "Mo-Su 11:50-14:00, 17:00-21:00; Tu off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6656945,
+          35.5774837
+        ]
+      },
+      "id": "node/9471818655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471854308",
+        "addr:block_number": "12",
+        "addr:city": "川崎市",
+        "addr:housenumber": "6",
+        "addr:postcode": "210-0853",
+        "addr:province": "神奈川県",
+        "addr:quarter": "田島町",
+        "addr:suburb": "川崎区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麺　五六",
+        "opening_hours": "Tu-Fr 11:00-14:30, 17:30-20:00; Sa-Su, PH 11:00-14:00; PH +1day Tu off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7081402,
+          35.5159746
+        ]
+      },
+      "id": "node/9471854308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472025585",
+        "addr:block_number": "1",
+        "addr:city": "川崎市",
+        "addr:housenumber": "B1F",
+        "addr:neighbourhood": "26",
+        "addr:postcode": "210-0007",
+        "addr:province": "神奈川県",
+        "addr:quarter": "駅前本町",
+        "addr:suburb": "川崎区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麵屋　徳",
+        "opening_hours": "Mo-Su 11:00-22:30",
+        "opening_hours:covid19": "Mo-Su 11:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6974428,
+          35.5307012
+        ]
+      },
+      "id": "node/9472025585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472034631",
+        "addr:block_number": "16",
+        "addr:city": "川崎市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "210-0014",
+        "addr:province": "神奈川県",
+        "addr:quarter": "貝塚",
+        "addr:suburb": "川崎区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "とんトコ豚",
+        "opening_hours": "Mo-Su 17:00-03:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7062433,
+          35.5249494
+        ]
+      },
+      "id": "node/9472034631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472039287",
+        "addr:block_number": "526",
+        "addr:city": "川崎市",
+        "addr:housenumber": "6",
+        "addr:neighbourhood": "１丁目",
+        "addr:postcode": "211-0063",
+        "addr:province": "神奈川県",
+        "addr:quarter": "小杉町",
+        "addr:suburb": "中原区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "味噌好き！みそごろう",
+        "opening_hours": "Mo-Su 18:00-22:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65916,
+          35.5788011
+        ]
+      },
+      "id": "node/9472039287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472071954",
+        "addr:block_number": "56",
+        "addr:city": "川崎市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "212-0004",
+        "addr:province": "神奈川県",
+        "addr:quarter": "小向西町",
+        "addr:suburb": "幸区",
+        "amenity": "fast_food",
+        "branch": "川崎　808ism",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麺でる",
+        "opening_hours": "Mo-Sa 11:30-15:00, 17:30-20:30; Su, PH 11:30-17:00",
+        "opening_hours:covid19": "Mo-Su 11:30-15:00, 17:30-19:30",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6882493,
+          35.5486286
+        ]
+      },
+      "id": "node/9472071954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472089781",
+        "addr:block_number": "１3",
+        "addr:city": "相模原市",
+        "addr:neighbourhood": "6丁目",
+        "addr:postcode": "252-0239",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中央",
+        "addr:suburb": "中央区",
+        "amenity": "fast_food",
+        "branch": "相模原",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "麺でる",
+        "opening_hours": "Mo-Sa 11:00-15:00, 17:30-19:30",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.371751,
+          35.56823
+        ]
+      },
+      "id": "node/9472089781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472108536",
+        "addr:block_number": "13",
+        "addr:city": "厚木市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "243-0018",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中町",
+        "amenity": "fast_food",
+        "branch": "本厚木",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ぶっ豚",
+        "opening_hours": "Mo-Su 10:30-15:30, 17:00-23:00",
+        "opening_hours:covid19": "Mo-Su 10:30-15:30, 17:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3623028,
+          35.4418376
+        ]
+      },
+      "id": "node/9472108536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472126369",
+        "addr:block_number": "31",
+        "addr:city": "平塚市",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "254-0045",
+        "addr:province": "神奈川県",
+        "addr:quarter": "見附町",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン豚んち",
+        "opening_hours": "Mo-Fr 11:00-15:00, 17:00-22:00; Sa-Su, PH 11:00-22:00; We off",
+        "opening_hours:covid19": "Mo-Su 11:00-20:00; We off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3449928,
+          35.3292919
+        ]
+      },
+      "id": "node/9472126369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472134517",
+        "addr:block_number": "1",
+        "addr:city": "大和市",
+        "addr:housenumber": "6",
+        "addr:neighbourhood": "5",
+        "addr:postcode": "242-0007",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中央林間",
+        "amenity": "fast_food",
+        "branch": "駅前",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン岩佐",
+        "opening_hours": "Mo-Su 12:00-15:30, 18:00-00:00",
+        "opening_hours:covid19": "closed",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4433058,
+          35.5090183
+        ]
+      },
+      "id": "node/9472134517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472139209",
+        "addr:block_number": "14",
+        "addr:city": "秦野市",
+        "addr:housenumber": "10",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "257-0003",
+        "addr:province": "神奈川県",
+        "addr:quarter": "南矢名",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "らーめん福屋",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "opening_hours:covid19": "Mo-Su 11:00-21:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2714251,
+          35.3722675
+        ]
+      },
+      "id": "node/9472139209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472150256",
+        "addr:block_number": "10",
+        "addr:city": "相模原市",
+        "addr:housenumber": "11",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "252-0206",
+        "addr:province": "神奈川県",
+        "addr:quarter": "淵野辺",
+        "addr:suburb": "中央区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ラーメン　きじとら",
+        "opening_hours": "Mo-Su 11:00-20:00; Th off",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3905965,
+          35.5714143
+        ]
+      },
+      "id": "node/9472150256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472162304",
+        "addr:block_number": "1",
+        "addr:city": "茅ヶ崎市",
+        "addr:housenumber": "66",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "253-0055",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中海岸",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "菜良",
+        "opening_hours": "We-Sa 11:30-14:30, 18:00-20:00; Su, PH 11:30-14:30",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.406171,
+          35.3279147
+        ]
+      },
+      "id": "node/9472162304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9472188118",
+        "addr:block_number": "6",
+        "addr:city": "相模原市",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "252-0206",
+        "addr:province": "神奈川県",
+        "addr:quarter": "淵野辺",
+        "addr:suburb": "中央区",
+        "amenity": "fast_food",
+        "branch": "淵野辺",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "ぶっ豚",
+        "opening_hours": "Mo-Su 10:30-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3945298,
+          35.5694406
+        ]
+      },
+      "id": "node/9472188118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9473248355",
+        "addr:block_number": "5",
+        "addr:city": "川崎市",
+        "addr:housenumber": "20",
+        "addr:neighbourhood": "4",
+        "addr:postcode": "211-0025",
+        "addr:province": "神奈川県",
+        "addr:quarter": "木月",
+        "addr:suburb": "中原区",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "豚星。",
+        "opening_hours": "Mo-Su 9:00-20:00",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6543601,
+          35.5598925
+        ]
+      },
+      "id": "node/9473248355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10605075061",
+        "addr:block_number": "13",
+        "addr:city": "小平市",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "1870045",
+        "addr:province": "東京都",
+        "addr:quarter": "学園西町",
+        "amenity": "fast_food",
+        "cuisine": "ramen;jiro",
+        "drive_through": "no",
+        "name": "ラーメン二郎　一橋学園店",
+        "opening_hours": "Mo-Fr 11:30-14:30/17:30-20:30; Sa-Su 11:00-16:00; Th off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4792881,
+          35.7223636
+        ]
+      },
+      "id": "node/10605075061"
+    }
+  ]
+}
